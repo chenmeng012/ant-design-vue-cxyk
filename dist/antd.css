@@ -11856,7 +11856,7 @@ span.ant-radio + * {
   border-radius: 0 0 4px 4px;
 }
 .ant-collapse-borderless {
-  background-color: #df4848;
+  background-color: #fafafa;
   border: 0;
 }
 .ant-collapse-borderless > .ant-collapse-item {
